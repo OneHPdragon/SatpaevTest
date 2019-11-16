@@ -1,0 +1,14 @@
+F:\VisualStudioProjects\TestForSatpaev\TestForSatpaev\obj\Debug\netcoreapp2.1\TestForSatpaev.csprojAssemblyReference.cache
+F:\VisualStudioProjects\TestForSatpaev\TestForSatpaev\obj\Debug\netcoreapp2.1\TestForSatpaev.csproj.CoreCompileInputs.cache
+F:\VisualStudioProjects\TestForSatpaev\TestForSatpaev\obj\Debug\netcoreapp2.1\TestForSatpaev.RazorAssemblyInfo.cache
+F:\VisualStudioProjects\TestForSatpaev\TestForSatpaev\obj\Debug\netcoreapp2.1\TestForSatpaev.RazorAssemblyInfo.cs
+F:\VisualStudioProjects\TestForSatpaev\TestForSatpaev\obj\Debug\netcoreapp2.1\TestForSatpaev.AssemblyInfoInputs.cache
+F:\VisualStudioProjects\TestForSatpaev\TestForSatpaev\obj\Debug\netcoreapp2.1\TestForSatpaev.AssemblyInfo.cs
+F:\VisualStudioProjects\TestForSatpaev\TestForSatpaev\bin\Debug\netcoreapp2.1\TestForSatpaev.deps.json
+F:\VisualStudioProjects\TestForSatpaev\TestForSatpaev\bin\Debug\netcoreapp2.1\TestForSatpaev.runtimeconfig.json
+F:\VisualStudioProjects\TestForSatpaev\TestForSatpaev\bin\Debug\netcoreapp2.1\TestForSatpaev.runtimeconfig.dev.json
+F:\VisualStudioProjects\TestForSatpaev\TestForSatpaev\bin\Debug\netcoreapp2.1\TestForSatpaev.dll
+F:\VisualStudioProjects\TestForSatpaev\TestForSatpaev\bin\Debug\netcoreapp2.1\TestForSatpaev.pdb
+F:\VisualStudioProjects\TestForSatpaev\TestForSatpaev\obj\Debug\netcoreapp2.1\TestForSatpaev.RazorTargetAssemblyInfo.cache
+F:\VisualStudioProjects\TestForSatpaev\TestForSatpaev\obj\Debug\netcoreapp2.1\TestForSatpaev.dll
+F:\VisualStudioProjects\TestForSatpaev\TestForSatpaev\obj\Debug\netcoreapp2.1\TestForSatpaev.pdb
